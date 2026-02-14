@@ -1,2 +1,8 @@
 # Kuma
-A cute little chatbot I'd like to build locally using a HuggingFace model.
+Making a little neural network!
+
+Frontend: HTML/CSS/JavaScript canvas
+Backend: Python Flask
+Deploy: Azure App Service or AWS Elastic Beanstalk
+
+https://www.codecademy.com/article/deploying-a-flask-app
